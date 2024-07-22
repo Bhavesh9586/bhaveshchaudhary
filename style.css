@@ -38,7 +38,7 @@ main {
 .movie-list {
     display: flex;
     flex-wrap: wrap;
-    gap: 2em;
+    gap: 20em;
 }
 
 .movie {
